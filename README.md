@@ -1,2 +1,5 @@
 # hello-world
-hello is this thing on
+
+Hello is this thing 
+
+i just wanna learn how to use github thx
